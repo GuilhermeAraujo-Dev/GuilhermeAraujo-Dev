@@ -47,10 +47,10 @@ These projects are part of my journey toward becoming a Data Analyst.
 | Project               | Description                                               |
 | --------------------- | --------------------------------------------------------- |
 | SQL Business Analysis | Business-focused SQL queries using a relational database. |
-| Sales Dashboard       | Interactive Power BI dashboard with business KPIs.        |
+<!-- | Sales Dashboard       | Interactive Power BI dashboard with business KPIs.        |
 | Python Data Analysis  | Data analysis using Pandas and Python.                    |
 | ETL Pipeline          | Data extraction, transformation, and loading project.     |
-| Data Warehouse        | Dimensional modeling and analytical SQL queries.          |
+| Data Warehouse        | Dimensional modeling and analytical SQL queries.          | -->
 
 ---
 
